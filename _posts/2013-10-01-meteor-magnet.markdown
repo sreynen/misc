@@ -2,7 +2,12 @@
 layout: project
 title:  "Meteor Magnet"
 date:   2013-10-01 19:50:15
-categories: [meteor, js]
+github: https://github.com/kid-icarus/meteor-magnet
+demo: http://kid-icarus.meteor.com/
+summary: Magnetic poetry thing using Meteor.js
+status: mostly done, scrolling isn't great
+idea: Ryan
+tags: [meteor, js]
 ---
 
 * Only load words near current canvas position

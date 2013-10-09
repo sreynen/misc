@@ -6,4 +6,13 @@ layout: default
 <div class="post">
 {{ content }}
 </div>
+<ul class="links">
+{% if page.demo %}
+  <li><a href="{{ page.demo }}">Demo</a></li>
+{% endif %}
+{% if page.github %}
+  <li><a href="{{ page.github }}">GitHub repository</a></li>
+{% endif %}
+</ul>
+
 <div class="tags">{{ page.tags | array_to_sentence_string }}</div>
