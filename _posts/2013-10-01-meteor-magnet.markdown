@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: project
 title:  "Meteor Magnet"
 date:   2013-10-01 19:50:15
-categories: meteor js
+categories: [meteor, js]
 ---
 
 * Only load words near current canvas position
