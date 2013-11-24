@@ -1,2 +1,2 @@
-Meteor Magnet > meteor-magenet.md
+Meteor Magnet > meteor-magnet.md
 AdBlock Ad > adblock-ad.md
