@@ -13,4 +13,4 @@ http://www.youtube.com/watch?v=U5YClmS3umk
 
 -----repo
 
-https://github.com/clutterjoe/drupal-flair.git
+[https://github.com/clutterjoe/drupal-flair.git](https://github.com/clutterjoe/drupal-flair.git)
