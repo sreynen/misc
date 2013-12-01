@@ -1,4 +1,5 @@
 AdBlock Ad > adblock-ad.md
+Audio JS Stuff > audio-js-stuff.md
 BitTorrent Sync Web UI > btsync-webui.md
 Daily Internet Winner > daily-internet-winner.md
 Gittip Grants > gittip-grants.md
@@ -7,4 +8,3 @@ Meteor Magnet > meteor-magnet.md
 MISC website > misc-website.md
 Musical Markup > musical-markup.md
 Programming Games > programming-games.md
-Audio JS Stuff > audio-js-stuff.md
