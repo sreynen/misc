@@ -5,5 +5,6 @@ Gittip Grants > gittip-grants.md
 Golf JS > golfjs.md
 Meteor Magnet > meteor-magnet.md
 MISC website > misc-website.md
+Musical Markup > musical-markup.md
 Programming Games > programming-games.md
 Audio JS Stuff > audio-js-stuff.md
