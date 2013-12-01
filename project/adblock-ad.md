@@ -12,4 +12,4 @@ This is currently working as a demo, but we need to use pure JS to pull the func
 
 -----repo
 
-https://github.com/kid-icarus/adblockdetect
+[https://github.com/kid-icarus/adblockdetect](https://github.com/kid-icarus/adblockdetect)
