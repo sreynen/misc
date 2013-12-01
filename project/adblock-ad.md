@@ -10,5 +10,4 @@ Suggest using AdBlock if it’s not active. Maybe a Drupal module, or could mayb
 
 This is currently working as a demo, but we need to use pure JS to pull the functionality into any page.
 
------repository
-https://github.com/kid-icarus/adblockdetect
+-----repo https://github.com/kid-icarus/adblockdetect
