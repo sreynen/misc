@@ -1,10 +1,21 @@
 AdBlock Ad > adblock-ad.md
+Affordable Housing Locator > affordable-housing-locator.md
 Audio JS Stuff > audio-js-stuff.md
 BitTorrent Sync Web UI > btsync-webui.md
+Client-side Encryption > client-side-encryption.md
 Daily Internet Winner > daily-internet-winner.md
+Debugging Game > debugging-game.md
+Encryption UI > encryption-ui.md
+Flair > flair.md
 Gittip Grants > gittip-grants.md
 Golf JS > golfjs.md
 Meteor Magnet > meteor-magnet.md
 MISC website > misc-website.md
 Musical Markup > musical-markup.md
 Programming Games > programming-games.md
+Proverb Meanings > proverb-meanings.md
+Quotes without Identity > quotes-without-identity.md
+Subs not Ads > subs-not-ads.md
+Three.js Solar System > threejs-solar-system.md
+Three.js Ticketing > threejs-ticketing.md
+Tweet Reaper > tweetreaper.md
