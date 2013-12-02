@@ -15,6 +15,7 @@ Musical Markup > musical-markup.md
 Programming Games > programming-games.md
 Proverb Meanings > proverb-meanings.md
 Quotes without Identity > quotes-without-identity.md
+Structured Content Editor for GitHub > structured-github.md
 Subs not Ads > subs-not-ads.md
 Three.js Solar System > threejs-solar-system.md
 Three.js Ticketing > threejs-ticketing.md
