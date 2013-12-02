@@ -2,12 +2,12 @@
 
 Three.js Ticketing
 
-----idea
+-----idea
 
 * Joe
 * Ryan claims ownership of the idea (liar!!!)
 
-----status
+-----status
 
 Started
 
