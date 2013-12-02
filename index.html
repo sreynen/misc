@@ -6,31 +6,44 @@
     <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" media="all" rel="stylesheet" type="text/css" />
     <link href="//netdna.bootstrapcdn.com/bootswatch/3.0.1/journal/bootstrap.min.css" media="all" rel="stylesheet" type="text/css" />
     <script src="http://codeorigin.jquery.com/jquery-2.0.3.min.js" type="text/javascript"></script>
-    <script src="js/showdown/src/showdown.js" type="text/javascript"></script>
+    <script src="//rawgithub.com/sreynen/misc/master/js/showdown/src/showdown.js" type="text/javascript"></script>
     <script src="js/main.js" type="text/javascript"></script>
   </head>
-  <body style="padding: 8em 0;">
+  <body style="padding-top: 8em;">
     <div class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
         <h1><a href="#" class="navbar-link">Make Interesting Stuff Club</a></h1>
       </div>
     </div>
     <div id="index" class="container">
-      <p><abbr title="Make Interesting Stuff Club">MISC</abbr> is a place to make cool things on the interwebs without the usual constraints that come with making web for a living (e.g. business plans). People come with ideas of fun things to make, we form groups around those ideas, and we make things. We meet at the Aten Design Group office (3507 Ringsby Ct. #111, Denver, CO) at around 5:30pm on Tuesdays, except the 4th Tuesday of the month, when we don't meet. We also do impromptu meetings at other times, so if you'd like to meet, get in touch. Anyone ready to make fun things with others is welcome.</p>
-      <h2>Some Guidelines:</h2>
-      <ul>
-        <li><strong>Only personal projects</strong> &mdash; leave your day job at the door, this is a chance to play with something new.</li>
-        <li><strong>Fun &gt; money</strong> &mdash; we are sharpening our skills, and playing with new things. This is not a startup.</li>
-        <li><strong>Teamwork!</strong> &mdash; if you can't convince anyone else to work on your idea, work on someone else's idea. It'll be more fun than working alone.</li>
-      </ul>
-      <h2>Projects</h2>
-      <p>Below are some projects we're talking about and/or working on.</p>
-      <ul id="project-list">
-      </ul>
+      <div class="row">
+        <div class="col-md-8">
+          <p><abbr title="Make Interesting Stuff Club">MISC</abbr> is a place to make cool things on the interwebs without the usual constraints that come with making web for a living (e.g. business plans). People come with ideas of fun things to make, we form groups around those ideas, and we make things. We meet at the Aten Design Group office (3507 Ringsby Ct. #111, Denver, CO) at around 5:30pm on Tuesdays, except the 4th Tuesday of the month, when we don't meet. We also do impromptu meetings at other times, so if you'd like to meet, get in touch. Anyone ready to make fun things with others is welcome.</p>
+          <h2>Some Guidelines:</h2>
+          <ul class="list-group">
+            <li class="list-group-item"><strong>Only personal projects</strong> &mdash; leave your day job at the door, this is a chance to play with something new.</li>
+            <li class="list-group-item"><strong>Fun &gt; money</strong> &mdash; we are sharpening our skills, and playing with new things. This is not a startup.</li>
+            <li class="list-group-item"><strong>Teamwork!</strong> &mdash; if you can't convince anyone else to work on your idea, work on someone else's idea. It'll be more fun than working alone.</li>
+          </ul>
+          <h2>Projects</h2>
+          <p>Below are some projects we're talking about and/or working on.</p>
+          <ul id="project-list" class="list-group">
+          </ul>
+        </div>
+        <div class="col-md-4">
+          <div class="well">
+            <h4><span class="glyphicon glyphicon-calendar"></span> Upcoming Meetings</h4>
+            <div id="upcoming">
+              <p>None scheduled.</p>
+            </div>
+            <p>Add meetings by editing <a href="https://github.com/sreynen/misc/blob/master/upcoming.md">the upcoming file</a>.</p>
+          </div>
+        </div>
+      </div>
     </div>
     <div id="project" class="container">
     </div>
-    <div class="navbar navbar-inverse navbar-fixed-bottom">
+    <div class="navbar navbar-inverse">
       <div class="container">
         <p class="navbar-text">This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US" class="navbar-link">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>. You can <a href="https://github.com/sreynen/misc/" class="navbar-link">fork this site on GitHub</a>.</p>
       </div>

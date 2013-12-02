@@ -9,7 +9,7 @@
 
   $(document).ready(function(){
 
-    $.get('github.php?p=index.txt', function(data){
+    $.get('github.php?p=project/index.txt', function(data){
 
       var i = 0;
       var lines = data.split("\n");
@@ -21,7 +21,7 @@
 
           parts = lines[i].split(' > ');
           
-          $('<li><a href="#" data-path="' + parts[1] + '">' + parts[0] + '</a></li>')
+          $('<li class="list-group-item"><span class="glyphicon glyphicon-star"></span> <a href="#" data-path="' + parts[1] + '">' + parts[0] + '</a></li>')
             .appendTo('#project-list')
             .find('a').click(function(){
   
@@ -35,6 +35,13 @@
         } // if
 
       } // for
+
+    });
+    
+    $.get('github.php?p=upcoming.md', function(data){
+
+      $('#upcoming').empty();
+      $('#upcoming').append(converter.makeHtml(data));
 
     });
 
@@ -53,7 +60,7 @@
 
     if (typeof projects[path] === 'undefined') {
 
-      var url = 'github.php?p=' + path;
+      var url = 'github.php?p=project/' + path;
 
       $.get(url, function(data){
 
