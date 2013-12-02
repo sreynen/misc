@@ -8,8 +8,7 @@ This is where we describe our projects.
 
 ##Next Steps
 
-* Add more info about people.
-* Complete transfer of project info from [Google Doc](https://docs.google.com/a/atendesigngroup.com/document/d/1Slst9a39JzbDJphUWe-2Xws5UBkfON4udC003zF9F10/edit?pli=1#heading=h.omnljq3q73gx).
+* Add info about people, maybe in sidebar?
 * Add URLs with JS so pages can be linked, back button works as expected.
 
 -----repo
