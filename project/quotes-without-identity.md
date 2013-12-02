@@ -6,7 +6,7 @@ Quotes without identity
 
 Joe & Ryan
 
-------description
+-----description
 
 Create db of quotes with authors.
 Pick political and historic figures from all parts of the spectrum.
