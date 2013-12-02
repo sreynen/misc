@@ -29,7 +29,6 @@
             .find('button').click(function(){
 
               var path = $(this).attr('data-path');
-              console.log(path);
               loadProject(path);
               return false;
 
