@@ -12,6 +12,8 @@ The server would need to implement BTSync server-side, which [has been done](htt
 
 If this ends up being a package you install rather than a hosted service, ease of install would be key. The goal is to make it easy enough that someone familiar with Dropbox could easily switch to BTSync.
 
+See: [https://drupal.org/project/btsync](https://drupal.org/project/btsync)
+
 -----idea
 
 Scott
