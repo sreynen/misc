@@ -8,7 +8,7 @@ Suggest using AdBlock if it’s not active. Maybe a Drupal module, or could mayb
 
 -----status
 
-This is currently working as a demo, but we need to use pure JS to pull the functionality into any page.
+This is done, as much as anything ever is. It's running on [the MISC site](http://misc.ellaneous.org/), for example.
 
 -----repo
 
