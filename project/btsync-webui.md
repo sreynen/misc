@@ -12,6 +12,11 @@ The server would need to implement BTSync server-side, which [has been done](htt
 
 If this ends up being a package you install rather than a hosted service, ease of install would be key. The goal is to make it easy enough that someone familiar with Dropbox could easily switch to BTSync.
 
+A couple sites have server-based sync services, but non treat the web as a first class interface:
+
+* [https://www.btcloudsync.com/](https://www.btcloudsync.com/)
+* [https://incloudibly.com/en/syncservers](https://incloudibly.com/en/syncservers)
+
 See: [https://drupal.org/project/btsync](https://drupal.org/project/btsync)
 
 -----idea
