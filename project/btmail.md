@@ -2,6 +2,10 @@
 
 BTMail
 
+-----idea
+
+Scott
+
 -----description
 
 Peer-to-peer encrypted messaging using BTSync and public key encryption, and a messaging UI.
