@@ -2,6 +2,7 @@ AdBlock Ad > adblock-ad.md
 Affordable Housing Locator > affordable-housing-locator.md
 Audio JS Stuff > audio-js-stuff.md
 BitTorrent Sync Web UI > btsync-webui.md
+BTMail > btmail.md
 Client-side Encryption > client-side-encryption.md
 Daily Internet Winner > daily-internet-winner.md
 Debugging Game > debugging-game.md
