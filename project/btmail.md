@@ -6,6 +6,10 @@ BTMail
 
 Scott
 
+-----status
+
+Looks like this was aleady done: [https://bitmessage.org/](https://bitmessage.org/)
+
 -----description
 
 Peer-to-peer encrypted messaging using BTSync and public key encryption, and a messaging UI.
