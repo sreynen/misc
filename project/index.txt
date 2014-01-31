@@ -4,6 +4,7 @@ Audio JS Stuff > audio-js-stuff.md
 BitTorrent Sync Web UI > btsync-webui.md
 BTMail > btmail.md
 Client-side Encryption > client-side-encryption.md
+Current Status > current-status.md
 Daily Internet Winner > daily-internet-winner.md
 Debugging Game > debugging-game.md
 Encryption UI > encryption-ui.md
