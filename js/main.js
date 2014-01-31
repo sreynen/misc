@@ -12,7 +12,7 @@
 
   $(document).ready(function(){
 
-    $.get('https://rawgithub.com/sreynen/misc/master/project/index.txt', function(data){
+    $.get('http://sreynen.github.io/misc/project/index.txt', function(data){
 
       var i = 0;
       var lines = data.split("\n");
@@ -40,7 +40,7 @@
 
     });
 
-    $.get('https://rawgithub.com/sreynen/misc/master/upcoming.md', function(data){
+    $.get('http://sreynen.github.io/misc/upcoming.md', function(data){
 
       $('#upcoming').empty();
       $('#upcoming').append(converter.makeHtml(data));
@@ -62,7 +62,7 @@
 
     if (typeof projects[path] === 'undefined') {
 
-      var url = 'https://rawgithub.com/sreynen/misc/master/project/' + path;
+      var url = 'http://sreynen.github.io/misc/project/' + path;
 
       $.get(url, function(data){
 
