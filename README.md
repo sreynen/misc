@@ -6,12 +6,24 @@ This is the source for http://misc.ellaneous.org/, the website for the Make Inte
 
 -----title
 
+Title of the project.
+
 -----description
+
+A description.
 
 -----repo
 
+A link to the repo.
+
 -----demo
+
+A link to a demo site.
 
 -----idea
 
+Who's idea was this?
+
 -----status
+
+Is this just an idea, or has something been started already? Next steps?
