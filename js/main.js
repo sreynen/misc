@@ -12,7 +12,7 @@
 
   $(document).ready(function(){
 
-    $.get('http://sreynen.github.io/misc/project/index.txt', function(data){
+    $.get('github.php?p=project/index.txt', function(data){
 
       var i = 0;
       var lines = data.split("\n");
@@ -40,7 +40,7 @@
 
     });
 
-    $.get('http://sreynen.github.io/misc/upcoming.md', function(data){
+    $.get('github.php?p=upcoming.md', function(data){
 
       $('#upcoming').empty();
       $('#upcoming').append(converter.makeHtml(data));
@@ -62,7 +62,7 @@
 
     if (typeof projects[path] === 'undefined') {
 
-      var url = 'http://sreynen.github.io/misc/project/' + path;
+      var url = 'github.php?p=project/' + path;
 
       $.get(url, function(data){
 
